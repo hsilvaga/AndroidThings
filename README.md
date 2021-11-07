@@ -1,2 +1,2 @@
 # AndroidThings
-Basic Calculator
+Basic Four-Function Calculator
